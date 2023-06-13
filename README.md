@@ -1,6 +1,11 @@
 # generative-ai-ivr
 hMS 2k23 hackthon
 
+# Build Requirement
+
+* python 3.9
+* open api python 0.27.7
+
 # Available backend servers
 * ai-ivr-reservation
 * ai-ivr-customer-care
