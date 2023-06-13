@@ -15,3 +15,8 @@ hMS 2k23 hackthon
 cd <selected_project>
 flask run
 ```
+# To enable debug log
+* Edit the app.py as below
+```
+log.setLevel(logging.DEBUG)
+```
